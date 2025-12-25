@@ -42,6 +42,18 @@ class SourcesNotifier extends StateNotifier<List<NewsSource>> {
             category: 'technology',
             language: 'en',
           ),
+          NewsSource.create(
+            name: 'NTV Dünya',
+            url: 'https://www.ntv.com.tr/dunya.rss',
+            category: 'general',
+            language: 'tr',
+          ),
+          NewsSource.create(
+            name: 'Habertürk',
+            url: 'http://www.haberturk.com/rss',
+            category: 'general',
+            language: 'tr',
+          ),
         ];
 
         // Save to Hive individually
