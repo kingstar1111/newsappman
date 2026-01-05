@@ -14,7 +14,8 @@ Flutter ile oluşturulmuş, sadelik ve erişilebilirliğe odaklanan, tüm yaş g
 - [Technologies](#-technologies--التقنيات--teknolojiler)
 - [Architecture](#-architecture--البنية--mimari)
 - [Installation](#-installation--التثبيت--kurulum)
-- [youtube video](https://www.youtube.com/watch?v=XoNXc6OlyiM) 
+- [youtube video](https://www.youtube.com/watch?v=XoNXc6OlyiM)
+- [sunum](https://github.com/kingstar1111/newsappman/edit/main/) 
 
 ---
 
