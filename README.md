@@ -15,7 +15,7 @@ Flutter ile oluşturulmuş, sadelik ve erişilebilirliğe odaklanan, tüm yaş g
 - [Architecture](#-architecture--البنية--mimari)
 - [Installation](#-installation--التثبيت--kurulum)
 - [youtube video](https://www.youtube.com/watch?v=XoNXc6OlyiM)
-- [sunum](https://github.com/kingstar1111/newsappman/edit/main/) 
+- [sunum](https://github.com/kingstar1111/newsappman/blob/main/Ak%C4%B1ll%C4%B1%20Haber%20Toplay%C4%B1c%C4%B1%20(Smart%20News%20Aggregator).pptx) 
 
 ---
 
